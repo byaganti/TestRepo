@@ -6,6 +6,7 @@ public class Testfile {
         System.out.println("testing git checkin and checkout process");
         System.out.println("checkin the file in git hub");
         System.out.println("checkin from eclipse");
+        System.out.println("modified in eclipse");
 	}
 
 }
